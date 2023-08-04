@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/qrcode": "^1.5.1",
+    "qrcode": "^1.5.3",
+    "qrcode-generator-ts": "^0.0.4",
+    "qrious": "^4.0.2",
+    "vue-qr": "^4.0.9",
+    "vue-qrcode": "^2.2.0"
+  }
+}
